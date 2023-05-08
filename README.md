@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Archil Beraia (aka archil or arch-il)
-- 👀 I’m interested in graphics development
-- 🌱 I’m currently learning vulkan
-- 💖 I’m in love with c++ 
-- 📫 How to reach me: my discord arch-il#0001
+- 👀 I’m interested in Graphics
+- 🌱 I’m currently working with MonoGame framework
+- 💖 I’m in love with calisthenics
+- 📫 reach me on discord: arch-il#2470
