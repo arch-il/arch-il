@@ -2,4 +2,4 @@
 - 👀 I’m interested in Graphics
 - 🌱 I’m currently working with MonoGame framework
 - 💖 I’m in love with calisthenics
-- 📫 reach me on discord: arch-il#2470
+- 📫 reach me on discord: arch_il
